@@ -1,6 +1,6 @@
 # gs-bd
 
-##Create table 
+###Create table 
 CREATE TABLE dept
 (deptno NUMBER(2),
 dname VARCHAR2(14),
